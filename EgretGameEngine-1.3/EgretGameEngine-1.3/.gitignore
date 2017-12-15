@@ -1,0 +1,10 @@
+
+.idea/
+
+libs/
+
+bin-debug/
+
+.wing/
+
+bin-release/
